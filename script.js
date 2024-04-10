@@ -5,7 +5,6 @@ const $$ = (e) => document.querySelectorAll(e);
 
 // Register Plugins
 gsap.registerPlugin(Flip);
-gsap.registerPlugin(GSDevTools);
 
 
 
